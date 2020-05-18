@@ -1,0 +1,2 @@
+C:\Users\cushi\source\repos\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\TestBot.njsproj.CoreCompileInputs.cache
+C:\Users\cushi\source\repos\NodejsConsoleApp1\NodejsConsoleApp1\bin\Microsoft.NodejsTools.WebRole.dll

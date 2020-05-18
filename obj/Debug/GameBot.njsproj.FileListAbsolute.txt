@@ -1,0 +1,3 @@
+C:\Users\cushi\source\repos\GameBot\GameBot\obj\Debug\GameBot.njsprojAssemblyReference.cache
+C:\Users\cushi\source\repos\GameBot\GameBot\obj\Debug\GameBot.njsproj.CoreCompileInputs.cache
+C:\Users\cushi\source\repos\GameBot\GameBot\bin\Microsoft.NodejsTools.WebRole.dll

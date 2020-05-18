@@ -1,0 +1,13 @@
+{
+  "name": "GameBot",
+  "version": "0.0.0",
+  "description": "GameBot",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0"
+  }
+}
